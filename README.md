@@ -42,17 +42,3 @@ Shreyas worked on the report and slides. Shreyas also helped with the EDA notebo
 
 We reused notebooks from class as starting points for our EDA and Modeling notebooks.
 
-
-
-
-│ ├── models/ # Saved model checkpoints
-
-
-
-└── docs/
-
-  ├── presentation/ # Presentation slides
-  
-  |── report.pdf # Final report
-  
-  └── video/ # Code walkthrough video
