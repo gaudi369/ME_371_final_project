@@ -1,32 +1,36 @@
-# Setup instructions, dependencies, data source
+# Setup instructions
+1. Download data from the raw data folder.
+2. Download the Maternal_Health_EDA and Maternal_Health_Modeling notebooks from the notebooks folder.
+3. Ensure all the notebooks and data share the same directory.
+4. Run the EDA notebook first. Follow the preprocessing instructions included at the bottom of the notebook.
+5. Next run the Modeling notebook
 
-project/
 
-├── README.md # Setup instructions, dependencies, data source
 
-├── data/
+# Dependancies
 
-│ ├── raw/ # Original dataset (or link to source)
+pandas: pip install pandas
 
-│ └── processed/ # Cleaned/preprocessed data
+numpy: pip install numpy
 
-├── notebooks/
+scikit-learn: pip install scikit-learn
 
-│ ├── 01_eda.ipynb # Exploratory Data Analysis
+matplotlib: pip install matplotlib
 
-│ ├── 02_preprocessing.ipynb # Data cleaning & preparation
+tensorflow (if used later): pip install tensorflow
 
-│ ├── 03_modeling.ipynb # Model development & training
+seaborn: pip install seaborn
 
-│ └── 04_evaluation.ipynb # Results & interpretation
+keras-tuner: pip install keras-tuner
 
-├── results/ 
+tensorflow (if used later): pip install tensorflow
 
-│ ├── figures/ # Generated visualizations
+# Data Source
+
 
 │ ├── models/ # Saved model checkpoints
 
-│ └── metrics/ # Performance evaluations
+
 
 └── docs/
 
