@@ -3,7 +3,7 @@
    
 2. **Download the notebooks:** Download the Maternal_Health_EDA and Maternal_Health_Modeling notebooks from the notebooks folder.
    
-3. **Organize your files:** Ensure that the downloaded notebooks (Maternal_Health_EDA and Maternal_Health_Modeling) and the dataset are placed in the same directory on your local machine.
+3. **Organize your files:** Ensure that the downloaded notebooks (Maternal_Health_EDAandPreprocessing and Maternal_Health_ModelingandAnalysis) and the dataset are placed in the same directory on your local machine.
    
 4. **Run the EDA notebook:** Open the Maternal_Health_EDA notebook and execute all the cells. Follow the preprocessing instructions provided at the bottom of the notebook. This step prepares the data for modeling.
   
