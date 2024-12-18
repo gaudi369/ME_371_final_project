@@ -32,13 +32,7 @@ Retreived from UC Irvine Machine Learning Repository @ https://archive.ics.uci.e
 
 Donated 8/14/2023
 
-Creators
-
-Marzia Ahmed
-
-ahmed.marzia32@gmail.com
-
-Daffodil International University
+Creator: Marzia Ahmed | ahmed.marzia32@gmail.com | Daffodil International University
 
 # Contributions
 
